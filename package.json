@@ -23,5 +23,8 @@
     "mongoose": "^6.0.4",
     "nodemon": "^2.0.12",
     "react-markdown": "^7.0.1"
+  },
+  "engines": {
+    "node": "16.15.1"
   }
 }
