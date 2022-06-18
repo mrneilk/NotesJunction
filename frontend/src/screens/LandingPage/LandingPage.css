@@ -2,7 +2,7 @@
   min-height: 93vh;
   display: flex;
   align-items: center;
-  background-image: url(D:\MERNProject\frontend\src\background.jpg);
+  /* background-image: url(D:\MERNProject\frontend\src\background.jpg); */
   background-position: center;
   background-size: cover;
 }
